@@ -1,0 +1,2 @@
+# helperclass
+HelperClassForNetwork
